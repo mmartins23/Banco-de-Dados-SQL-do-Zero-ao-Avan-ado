@@ -1,6 +1,5 @@
 #  Mais variações do WHERE
 
-
 ### Dados na Tabela `Customers`
 
 Vamos usar a tabela `Customers` com os seguintes dados:
